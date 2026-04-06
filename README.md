@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LearnSpace 🚀
 ### A Production-Ready E-Learning Marketplace Platform
 
@@ -236,3 +237,8 @@ MIT License — see [LICENSE](LICENSE)
 ---
 
 *Built with ❤️ for Bangladesh's digital education ecosystem*
+=======
+# project1
+my first project<br>
+author-sojja
+>>>>>>> bea36ce67f2eb8ad4a4f9a6dc9a8667a09ab7dca
